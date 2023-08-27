@@ -179,8 +179,8 @@ APEはそのまま。
 
 ## インストール
 
-パッケージマネージャーを使わないならGitHubからダウンロードした  
-utag-vX.X.X.zipを展開して動作環境にあったバイナリを利用する。
+パッケージマネージャーを使わないならGitHubのReleasesからutag-vX.X.X.zipを  
+ダウンロード、展開して動作環境にあったバイナリを利用する。
 
 - macOS Intel: utag-darwin-amd64-vX.X.X
 - macOS ARM(M1など): utag-darwin-arm64-vX.X.X
